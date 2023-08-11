@@ -1,3 +1,3 @@
-# Hey V2 here
+# Netflix Movie Cards
 
-this git repo mainly focus on my route of learning 'ReactJS'
+A RANDOM LIST OF NETFLIX MOVIES!
